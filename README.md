@@ -1,3 +1,13 @@
+Программа не превращает любую 3D-модель в идеальную карту Source.
+Сложные, вогнутые, детализированные и органические модели могут создавать слишком много брашей или некорректную VMF-геометрию.
+Режим "1 треугольник = 1 браш" подходит в первую очередь для черновика и проверки формы.
+
+The program does not turn any 3D model into a perfect Source map.
+Complex, concave, detailed and organic models can create too many brushes or incorrect VMF geometry.
+The “1 triangle = 1 brush” mode is primarily suitable for drafting and checking the shape.
+
+---------------------
+
 ENG (google translator):
 
 # hammer model converter
